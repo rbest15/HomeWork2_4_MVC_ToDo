@@ -1,0 +1,6 @@
+module Pods_HomeWork2_4_TODO_MVC {
+  umbrella header "Pods-HomeWork2_4_TODO_MVC-umbrella.h"
+
+  export *
+  module * { export * }
+}
